@@ -41,7 +41,7 @@ pipeline {
       }
     }
 environment {
-    registry = 'metanitesh/simple-api'
+    registry = 'mdsajii/hello_mascow'
     registryCredential = 'dockerId'
     dockerImage = ''
     dockerImageLatest = ''
