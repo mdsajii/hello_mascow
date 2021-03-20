@@ -47,3 +47,4 @@ environment {
     dockerImageLatest = ''
   }
 }
+}
