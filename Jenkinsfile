@@ -1,4 +1,4 @@
-def app = 'Unknown'
+def app = 'master'
 pipeline {
   environment {
     registry = "mdsajii/hello_mascow"
